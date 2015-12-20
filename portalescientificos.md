@@ -25,3 +25,23 @@ http://www.ssrn.com/en/
 http://www.citeulike.org/
 
 http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page
+
+http://www.scientificamerican.com/
+
+http://phys.org/
+
+http://www.eurekalert.org/
+
+http://whyfiles.org/
+
+http://www.aaas.org/
+
+http://www.scienceagogo.com/
+
+http://www.livescience.com/
+
+http://sciencehack.com/
+
+http://videolectures.net/
+
+https://nsdl.oercommons.org/
