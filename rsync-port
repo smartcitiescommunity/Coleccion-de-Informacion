@@ -1,0 +1,1 @@
+rsync -ravz -e "ssh -p 2222" user@example.com:/files/ /local/files/
